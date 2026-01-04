@@ -1,0 +1,46 @@
+# Ignore generated files for Verilog projects
+
+# Quartus generated files
+db/
+incremental_db/
+simulation/
+work/
+*.done
+*.dpf
+*.qws
+*.qdf
+*.asm.rpt
+*.fit.rpt
+*.map.rpt
+*.sim.rpt
+*.tan.rpt
+*.eda.rpt
+*.nativelink_simulation.rpt
+
+# Output files
+*.pof
+*.sof
+*.pin
+*.jpg
+*.edif
+
+# Simulation files
+*.vwf
+*.edif
+
+# Backup files
+*.bak
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# Database files
+*.qdb
+*.qpg
+*.qtl
+*.qsf
+*.qpf
