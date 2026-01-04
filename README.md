@@ -30,7 +30,7 @@
 - `tb_Top_Computer.v` - 测试平台
 
 ### 开发环境
-- Quartus Prime
+- Quartus 
 - Verilog HDL
 
 ## 快速开始
@@ -71,8 +71,9 @@ MIT License
 
 ## 作者
 
-金俊翔 (broccoli)
+ (broccoli)
 
 ---
+
 
 **注意**：本仓库仅包含源代码，编译生成的文件和详细设计文档已通过 `.gitignore` 忽略。
